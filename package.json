@@ -1,0 +1,23 @@
+{
+  "name": "sagar",
+  "version": "1.0.0",
+  "description": "D3 fundamental",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpt16sagar/D3Fundamental.git"
+  },
+  "keywords": [
+    "D3",
+    "fundamental"
+  ],
+  "author": "Sagar kr. Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gpt16sagar/D3Fundamental/issues"
+  },
+  "homepage": "https://github.com/gpt16sagar/D3Fundamental#readme"
+}
